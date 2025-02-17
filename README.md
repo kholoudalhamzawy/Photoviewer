@@ -1,6 +1,6 @@
-### A simple photo viewer
+# A simple photo viewer
 
-# The app consists of three screens:
+### The app consists of three screens:
 
 Profile Screen: Displays the user's name and address at the top, followed by a list of the user’s albums. Albums can be fetched using the albums endpoint with the userId as a parameter.
 
