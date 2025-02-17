@@ -1,5 +1,3 @@
-# Photoviewer
-
 ### A simple photo viewer
 
 # The app consists of three screens:
@@ -14,5 +12,7 @@ This structure enhances user experience by providing an intuitive flow from prof
 
 
 
-https://github.com/user-attachments/assets/825532cf-ecb7-43d8-bba6-28885a90a698
+
+
+https://github.com/user-attachments/assets/4ab7bdfb-b161-42a5-8195-13218a1eb3ee
 
