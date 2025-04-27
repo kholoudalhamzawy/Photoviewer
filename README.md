@@ -1,4 +1,4 @@
-# A simple photo viewer with Moya and UIKIT
+# A simple photo viewer with Moya, Combine and UIKIT.
 
 ### The app consists of three screens:
 
